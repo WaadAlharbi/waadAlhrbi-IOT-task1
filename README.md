@@ -1,6 +1,8 @@
 # Task 1 – part 1: speech to text recognition
 
- This part contain a simple HTML template & JavaScript& CSS To create web  page that convert speech to text in Arabic & English by using web speech recognition API(application programming interface).
+ This part contain a simple HTML template & JavaScript& CSS 
+ 
+ To create web  page that convert speech to text in Arabic & English by using web speech recognition API(application programming interface).
 # Task 1- part 2:  Write algorithm for running Wasdom ESP32 
 
 ## The required materials :
